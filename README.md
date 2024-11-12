@@ -4,4 +4,8 @@
 * HTML, CSS e Javascript.
 
 ### Rodar local:
-* Clonar o repositório e abrir o index.html de ambos os projetos.
+```bash
+# Clone este repositório.
+$ git clone https://github.com/maria-bruner/free-flow-fiap.git
+# Abrir index.html
+```
